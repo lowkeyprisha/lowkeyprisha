@@ -19,7 +19,7 @@ I am a B.Tech student specializing in AI & ML at the Birla Institute of Technolo
 
 👯 I’m looking to collaborate on: Projects involving DSA, Web Development, and Automated Image Analysis.
 
-💬 Ask me about: Frontend design, technical content writing, or event management.
+💬 Ask me about: Frontend design, Responsive Design, or my approach to solving CP problems and technical content writing.
 
 🤩 Competitive Programmer (solving the world's problems, one test case at a time)
 
