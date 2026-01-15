@@ -1,7 +1,7 @@
 👋 Hi there, I'm Prisha Raj! 
 
 I am a B.Tech student specializing in AI & ML at the Birla Institute of Technology, Mesra (Off-Campus Patna). I am a passionate Upcoming Software Development Engineer (SDE) focused on bridging the gap between elegant frontend design and robust algorithmic logic.
-+4
+
 
 💻 About Me
 👉 Primary coding languages: Python, JavaScript, Java, and C.
