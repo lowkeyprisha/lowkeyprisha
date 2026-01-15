@@ -21,8 +21,7 @@ I am a B.Tech student specializing in AI & ML at the Birla Institute of Technolo
 
 💬 Ask me about: Frontend design, technical content writing, or event management.
 
-🤩 Competitive Programmer.
-+1
+🤩 Competitive Programmer (solving the world's problems, one test case at a time)
 
 😄 Pronouns: She/Her.
 
