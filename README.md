@@ -24,4 +24,4 @@ I am a B.Tech student specializing in AI & ML at the Birla Institute of Technolo
 
 😄 Pronouns: She/Her.
 
-⚡ Fun fact: 
+⚡ Fun fact: I love to stand apart from the crowd.
